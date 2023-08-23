@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SK SHAMIM AKTAR</h1>
-<h3 align="center">I'SK Shamim Aktar, a passionate Computer Science student currently in my 3rd year. I've got my hands on various exciting projects related to Machine Learning and Data Science. Here's a glimpse of what I'm up to:</h3>
+<h3 align="center"> a passionate Computer Science student currently in my 3rd year. I've got my hands on various exciting projects related to Machine Learning and Data Science. Here's a glimpse of what I'm up to:</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skshamim02&label=Profile%20views&color=0e75b6&style=flat" alt="skshamim02" /> </p>
 
